@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Feather",
+  "version": "2.1",
+
+  "description": "Feather, fork of SweezeBreeze tailored for usage with TBH.",
+
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://*.nationstates.net/*"],
+      "js": ["jquery-3.1.1.min.js", "content.js"]
+
+    }
+  ]
+
+}
