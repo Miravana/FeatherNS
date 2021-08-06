@@ -1,7 +1,7 @@
 ===============================
 Feather v2.1.0
 
-Derivative extension of Breeze++, with removed and added stuff, tailored towards raiders/tags
+Derivative extension of SweezeBreeze, with removed and added stuff, tailored towards raiders/tags
 
 ================================
 KEY LIST:
